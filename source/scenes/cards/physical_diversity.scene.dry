@@ -1,25 +1,8 @@
 title: Physical Diversity in Canada
 new-page: true
-view-if: thomson_visited >= 1
-on-arrival: rutherford_visited += 1
+on-arrival: time += 1
 is-card: true
-card-image: img/rutherford.jpg
-tags: party_affairs
-face-image: imh/rutherford.jpg
-###C04000
+card-image: img/landscape.jpg
+tags: dd
 
-- @science_general_rutherford: <span style="color:#C04000;">Rutherford's</span> <span style="color:#ffd700;"> General Contributions to science </span>
-- @science_atoms_rutherford: <span style="color:#C04000;">Rutherford's</span> <span style="color:#ffd700;"> Contributions to the Atom </span>
-- @easy_discard
-
-@science_general_rutherford
-
-Some of <span style="color:#C04000;">Rutherford's</span> other scientific contributions were determining that a needle would lose some of its magnetisation if it were in a magnetic field cause by an alternating current, he discovered both Alpha and Beta radiations through experimenting with Uranium. <span style="color:#C04000;">Rutherford</span>, along with <span style="color:#C14444;">Frederick Soddy</span>, developed "Transformation Theory" to explain Radiation. With <span style="color:#94B21C;">Hans Geiger</span>, <span style="color:#C04000;">Rutherford</span> developed the Geiger Counter.
-
-- @easy_discard
-
-@science_atoms_rutherford
-
-<p> <span style="color:#C04000;">Rutherford's</span> first acheivement with Atoms was when he colloborated with <span style="color:#424177;">JJ Thomson</span> on a study of the way X-rays affect the conductivity of gases. This study discovered Ionization. After this study Rutherford move on to another study at the McGill University at Montréal, which was experimenting with Thorium. This led to <span style="color:#C04000;">Rutherford</span> discovering half-life. In 1911, <span style="color:#C04000;">Rutherford's</span> theorized that the Atom was mostly empty space with a dense core, which was later expanded upon by <span style="color:#a7c7e7;">Bohr's</span> atomic model </p>
-
-- @easy_discard
+- @return
