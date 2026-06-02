@@ -2,8 +2,7 @@ title: Thanks for playing
 new-page: true
 is-card: true
 tags: party_affairs
-view-if: chadwick_visited >= 1
-on-arrival: thanks_visited += 1
+on-arrival: time += 1
 card-image: img/arbeiterbew.jpg
 
 - @thanks_menu
@@ -14,7 +13,7 @@ title: <span style="color:#ffd700;">To Credits & Citations</span>
 - @thanks_2: <span style="color:#ffd700;"> Thanks for Playing!</span>
 - @credits: <span style="color:#ffd700;"> Credits</span>
 - @citations: <span style="color:#ffd700;"> Citations </span>
-- @easy_discard
+- @return
 
 @thanks_2
 
@@ -30,15 +29,17 @@ ForkFinder22 -- Coding <br />
 ForkFinder22 -- Writing <br />
 ForkFinder22 -- Image sourcing <br />
 ForkFinder22 -- Citation Sourcing <br />
+ForkFinder22 -- JS Auto-colour <br />
+ForkFinder22 -- Design <br />
 Autumnchen -- Dendrynexus engine <br />
 Autumnchen -- Template <br />
 Originn0 -- Coloured Text (Differentiating) <br />
 Originn0, Cuttlecraft & Autumnchen -- Providing the necessary code to learn Dendrynrxus <br />
 Wikipedia -- Providing sources <br />
 Anonymous -- Providing me with this project <br />
+Anonymous -- Providing me with lessons <br />
 HTML colour codes -- Finding appropriate colours <br />
-w3schools -- Providing aid in coding HTML
-Democritus, John Dalton, JJ Thomson, Ernest Rutherford, Niels Bohr, James Chadwick -- Discovering and improving upon Atomic Theory <br />
+w3schools -- Providing aid in coding HTML and CSS <br />
 
 - @thanks_menu
 
