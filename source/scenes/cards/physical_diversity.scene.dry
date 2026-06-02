@@ -1,4 +1,4 @@
-title: Ernest Rutherford
+title: Physical Diversity in Canada
 new-page: true
 view-if: thomson_visited >= 1
 on-arrival: rutherford_visited += 1
