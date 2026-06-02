@@ -1,25 +1,8 @@
 title: Economic Diversity in Canada
 new-page: true
-view-if: dalton_visited >= 1
-on-arrival: thomson_visited += 1; thomson_bio = 1;
+on-arrival: time += 1
 is-card: true
-card-image: img/thomson.jpg
-tags: party_affairs
-face-image: img/thomson.jpg
-###424177
+card-image: img/economics.jpg
+tags: dd
 
-- @science_general_jj: <span style="color:#424177;">Thomson's</span> <span style="color:#ffd700;"> General Contributions to science</span>
-- @science_atoms_jj: <span style="color:#424177;">Thomson's</span> <span style="color:#ffd700;"> Contributions to the Atom </span>
-- @easy_discard
-
-@science_general_jj
-
-<p>Some of <span style="color:#424177;">Thomson's</span> other scientific contributions include helping develop the theory of electromagnetism, and hypothesising the proton (Later proved by <span style="color:#fffccc;">Albert Einstein</span>)
-
-- @easy_discard
-
-@science_atoms_jj
-
-<p> In 1897, <span style="color:#424177;">Thomson</span> discovered that there were small particles, extremely tiny when compared to them atom itself, that were present in every atom. while <span style="color:#424177;">Thomson</span> orginally called them corpsucles, they later took on the name "Electron". Unlike <span style="color:#b88e60;">Dalton</span> before him, it only took around 3 years for his discovery to be recognised by the scientific world. In 1908, he was knighted, and in 1909, he was given the Nobel Prize for physics. </p> 
-
-- @easy_discard
+- @return
