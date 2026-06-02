@@ -1,4 +1,4 @@
-title: JJ Thomson
+title: Economic Diversity in Canada
 new-page: true
 view-if: dalton_visited >= 1
 on-arrival: thomson_visited += 1; thomson_bio = 1;
