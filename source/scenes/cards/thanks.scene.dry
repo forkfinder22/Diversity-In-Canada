@@ -1,7 +1,7 @@
 title: Thanks for playing
 new-page: true
 is-card: true
-tags: party_affairs
+tags: dd
 on-arrival: time += 1
 card-image: img/arbeiterbew.jpg
 
