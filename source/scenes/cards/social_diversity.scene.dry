@@ -1,4 +1,4 @@
-title: John Dalton
+title: Social Diversity in Canada
 new-page: true
 on-arrival: dalton_visited += 1; dalton_bio = 1;
 is-card: true
