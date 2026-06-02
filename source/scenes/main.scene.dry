@@ -1,12 +1,12 @@
 title: DEBUG
 is-hand: true
-max-cards: 6
+max-cards: 4
 
-- @party
+- @diversitydeck
 
-@party
-title: Party Affairs
-card-image: img/Vorwaerts_nr_1.png
+@diversitydeck
+title: Diversity Cards
+card-image: img/diversity.jpg
 is-deck: true
 
-- #party_affairs
+- #dd
