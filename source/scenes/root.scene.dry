@@ -1,0 +1,46 @@
+title: Root Scene
+new-page: true
+go-to: post_event if started = 1; start_menu if started = 0
+
+@start_menu
+new-page: true
+go-to: start_menu_2
+
+= The Atomic Timeline
+
+@start_menu_2
+
+- @start: <span style="color:#ffd700;">Start game</span>
+
+
+@start
+on-arrival: {!
+Q.started = 1;
+Q.dalton_visited = 0;
+Q.thomson_visited = 0;
+Q.rutherford_visited = 0;
+Q.bohr_visited = 0;
+Q.other_visited = 0;
+Q.thanks_visited = 0;
+!}
+new-page: true
+
+> *"Those who are not shocked when they first come across quantum mechanics cannot possibly have understood it."*
+
+ - Niels Bohr, Qouted in *H R Pagels*, **The Cosmic Code**, 1982
+
+This is a game of non-fiction, and is not intended to be played as a game, rather as an interactive non-fiction "slideshow" (Of sorts)<br />
+
+To learn about a scientist, click on the <span style="color:#34b233;">**deck**</span>. This will draw a <span style="color:#000080;'>Scientist Card</span>, in chronological order for the scientists I have selected.<br />
+
+When you click the <span style="color:#000080;">Scientist Card</span>, You will be taken to a menu with various options regarding their contributions to sciences, and more importantly, to <span style="color:#ff0000;">at</span><span style="color:#4e9fe5;">om</span><span style="color:#888888;">s</span>.<br />
+
+A short biography of the scientists can be found in the sidebar. The Biography will appear when you enter the <span style="color:#000080;">Scientist Card</span>, and disappear when you exit it.<br />
+
+- @begin: *<span style="color:#ffd700;">**Begin**</span>*
+
+@begin
+new-page: true
+go-to: main
+
+= The Atomic Timeline

@@ -1,0 +1,12 @@
+title: DEBUG
+is-hand: true
+max-cards: 6
+
+- @party
+
+@party
+title: Party Affairs
+card-image: img/Vorwaerts_nr_1.png
+is-deck: true
+
+- #party_affairs

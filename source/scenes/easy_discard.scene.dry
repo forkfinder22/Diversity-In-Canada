@@ -1,0 +1,17 @@
+title: <span style="color:#ffd700;">Return card to hand.</span>
+go-to: root
+on-arrival: {!
+// return card to hand
+var card = this.state.lastPlayedCard;
+card.image = card.cardImage;
+if (Q.difficulty >= 0) {
+    this.state.currentHands['main'].push(card);
+} else {
+    this.state.currentHands['main.main_easy'].push(card);
+}
+// reset the timer...
+// reduce visit count
+if (this.state.visits[card.id]) {
+    this.state.visits[card.id] -= 1;
+}
+!}

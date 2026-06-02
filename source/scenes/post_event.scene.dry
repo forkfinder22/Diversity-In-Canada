@@ -1,0 +1,10 @@
+title: Post Event
+new-page: true
+on-arrival: {!
+Q.dalton_bio = 0
+Q.thomson_bio = 0
+Q.rutherford_bio = 0
+Q.bohr_bio = 0
+Q.chadwick_bio = 0
+!}
+go-to: main

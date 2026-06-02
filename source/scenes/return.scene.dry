@@ -1,0 +1,5 @@
+title: Back to main
+choose-if: wip = 1000
+unavailable-subtitle: WIP to remove
+go-to: root
+on-arrival: month_actions -= 1 if difficulty < 0

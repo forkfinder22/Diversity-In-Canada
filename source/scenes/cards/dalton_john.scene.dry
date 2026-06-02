@@ -1,0 +1,25 @@
+title: John Dalton
+new-page: true
+on-arrival: dalton_visited += 1; dalton_bio = 1;
+is-card: true
+card-image: img/dalton.jpg
+frequency: 100
+tags: party_affairs
+face-image: img/dalton.jpg
+###b88e60
+
+- @science_general_dalton: <span style="color:#b88e60;">Dalton's</span><span style="color:#ffd700;"> General Contributions to science</span>
+- @science_atoms_dalton: <span style="color:#b88e60;">Dalton's</span><span style="color:#ffd700;"> Contributions to the Atom</span>
+- @easy_discard
+
+@science_general_dalton
+
+<p> Some of <span style="color:#b88e60;">Dalton's</span> other scientific contributions is his discovery of partial pressures and the (Scientific) discovery of colourblindess (Then known as "<span style="color:#b88e60;">Daltonism</span>") </p>
+
+- @easy_discard
+
+@science_atoms_dalton
+
+<p> <span style="color:#b88e60;">Dalton</span> made quite a few contributions to Atomic Theory, but his biggest were his theory of Partial Pressures, and his theory that each element had it's own kind of atom -- Oxygen atoms were different from gold atoms, for example. </p><br /><p> <span style="color:#b88e60;">Dalton's</span> law, or the Law of Partial Pressures states that </p><blockquote> "The total pressure exerted by a mixture of gases is equal to the sum of the partial pressures of the gases in the mixture." </blockquote> 
+
+- @easy_discard

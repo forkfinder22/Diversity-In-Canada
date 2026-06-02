@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta prefix="ifiction: http://babel.ifarchive.org/protocol/iFiction/"
+        property="ifiction:ifid" content="7FCDF039-2B77-4179-B795-CBAFA65253AA">
+    <title>The Atomic Timeline - ForkFinder22</title>
+    <link rel="stylesheet" type="text/css" href="game.css">
+    <script src="jquery-1.11.1.min.js"></script>
+    <script src="core.js"></script>
+    <script src="game.js"></script>
+  </head>
+  <body>
+    <div class="background" id="bg2">
+    </div>
+
+    <div class="background" id="bg1">
+    </div>
+
+    <!-- Sprite stuff - feel free to comment out/remove if not using -->
+    <div id="contentSpriteContainer">
+        <div class="sprite" id="topLeftSprite"></div>
+        <div class="sprite" id="topRightSprite"></div>
+
+        <div class="sprite" id="bottomLeftSprite"></div>
+        <div class="sprite" id="bottomRightSprite"></div>
+    </div>
+
+    <div id='page'>
+        <div id="mid_panel">
+            <header>
+                <h1 id="game-title">The Atomic Timeline</h1>
+                <h2 id="game-author">ForkFinder22</h2>
+            </header>
+            <div id="tools_wrapper">
+                <div id='stats_sidebar' class='tools left'>
+                    <div class="tab_container">
+                        <button class="tab_button active" id="main_tab" onclick="window.changeTab('status', 'main_tab');">Main</button>
+                    </div>
+                    <div id="qualities">
+                    </div>
+                </div>
+            </div>
+
+            <div id='content'>
+
+            </div>
+
+            <footer>
+      <!--
+      &copy; 2026 ForkFinder22.
+      Made with <a href="https://github.com/aucchen/dendry">Dendry</a>.
+      -->
+            </footer>
+        </div>
+    </div>
+  </body>
+</html>

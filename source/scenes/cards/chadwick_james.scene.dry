@@ -1,0 +1,25 @@
+title: James Chadwick
+new-page: true
+view-if: bohr_visited >= 1
+tags: party_affairs
+is-card: true
+on-arrival: chadwick_visited += 1; chadwick_bio = 1;
+card-image: img/chadwick.jpg
+face-image: img/chadwick.jpg
+### ccfca7
+
+- @science_general_chadwick: <span style="color:#ccfca7;">Chadwick's</span> <span style="color:#ffd700;"> General Contributions to science </span>
+- @science_atoms_chadwick: <span style="color:#ccfca7;">Chadwick's</span> <span style="color:#ffd700;"> Contributions to the Atom </span>
+- @easy_discard
+
+@science_general_chadwick
+
+<p><span style="color:#ccfca7;">Chadwick</span> did not have many other notable scientific discoveries outside of the neutron </p>
+
+- @easy_discard
+
+@science_atoms_chadwick
+
+<p> After the proton was discovered, many scientists believed there to be another particles that made up the atom - But none could prove it. That is, except for one  <span style="color:#ccfca7;">James Chadwick</span>, who in 1932, proved that neutron existed, after an experiment in which he attcked Berrylium with alpha particles. This is experiment was performed previously by two physicists named <span style="color:#bcdaec;">Frédéric Juliot-Curie</span>, and <span style="color:#bcdaec;">Iréne Joliot-Curie</span>, but they chalked up what we now know as neutrons to gamma rays, but <span style="color:#ccfca7;">James Chadwick</span> though otherwise. As previously stated - This lead to the discovery of neutron. </p>
+
+- @easy_discard
