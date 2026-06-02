@@ -6,7 +6,7 @@ go-to: post_event if started = 1; start_menu if started = 0
 new-page: true
 go-to: start_menu_2
 
-= The Atomic Timeline
+= Diversity In Canada
 
 @start_menu_2
 
@@ -19,6 +19,8 @@ Q.started = 1;
 Q.time = 1;
 !}
 new-page: true
+
+= Diversity In Canada
 
 <blockquote><i>"Quote"</i></blockquote>
 
