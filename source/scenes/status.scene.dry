@@ -2,32 +2,10 @@ title: Status
 new-page: true
 is-special: true
 
-= Biography
+= Fun Facts
 
-[? if dalton_bio = 1 : <span style="color:#b88e60;">John Dalton</span> was born on September 5th, 1766, in Eaglesfield, Cumberland, England. He was a meteorologist and chemist, and made some of the first advancements into Atomic Theory, excluding Democritus <br /> ?]
+[? if time = 1 : 1st fact ?]
 
-[? if dalton_bio = 1 : Early life <br /> ?]
+[? if time = 2 : 2nd fact ?]
 
-[? if dalton_bio = 1 : <span style="color:#b88e60;">Dalton</span> was born into a family of tradesmen (His grandfather, Jonathan, was a shoemaker. His father, Joseph was a weaver), and was raised as a Quaker (A denomination of Christianity). Of the three children who had survived until adulthood, <span style="color:#b88e60;">Dalton</span> was the youngest, and attended a grammar school in Eaglesfield. As he grew up, he was also mentored by two others, who taught him the basics of mathematics, Greek, and Latin. <br /> ?]
-
-[? if dalton_bio = 1 : Scientific career <br /> ?]
-
-[? if dalton_bio = 1 : In 1793, <span style="color:#b88e60;">Dalton</span> began teaching mathematics at another school, the New College, in Manchester, England. It was there that he would write Meteorological Observations and Essays, along with John Gough and Peter Croswaithe, a book that would transform Meteorology into a real science <br /> ?]
-
-[? if dalton_bio = 1 : Atomic Theory <br /> ?]
-
-[? if dalton_bio = 1 : While it is mostly unknown how <span style="color:#b88e60;">Dalton</span> came up with his "Solid Sphere" model of the atom, but we do know that he drew from the ways that gases act independently. <span style="color:#b88e60;">Dalton</span> also theorised that atoms of different elements were of different weights and sizes <br /> ?]
-
-[? if dalton_bio = 1 : Fun Facts: <br /> ?]
-
-[? if dalton_bio = 1 : <span style="color:#b88e60;">Dalton</span> was the first to record that he saw colours different from others - Colourblindness, at the time called "<span style="color:#b88e60;">Dalton</span>ism". His brother also had colourblindness, which made him theorise that it was genetic. <br /> ?]
-
-[? if dalton_bio = 1 : <span style="color:#b88e60;">Dalton</span> enjoyed collecting small insects like butterflies, and snails. <br /> ?]
-
-[? if thomson_bio = 1 : <span style="color:#424177;">JJ Thomson</span> was born on December 18th, 1856, in Cheetham Hill, near Manchester, England. His father was a bookseller, and he entered college at age 14. Notable acheivements being expanding Atomic Theory and discovering Electrons. He died on 30 August, 1940. <br />?]
-
-[? if rutherford_bio = 1 : <span style="color:#C04000;">The Right Honourable Lord Ernest Rutherford of Nelson</span> was born on 30 August 1871, and was a physicist-chemist in Atomic and Nuclear physics. Among many other things, he discovered, Half-life, Alpha & Beta radiation, and along with <span style=color:#A7C7E7;">Bohr</span>, he formulated the <span style=color:#A7C7E7;">Bohr</span> model. He died on 19 October, 1937. <br /> ?]
-
-[? if bohr_bio = 1 : <span style="color:#a7c7e7;"> Niels Bohr</span> was born on 7 October 1885, and was a Danish Theoretical Physicist and discoverd both the Complimentarity principle and a new element, Hafnium. He died on 18 November, 1962 <br /> ?] 
-
-[? if chadwick = 1 : <span style="color:#ccfca7;">James Chadwick</span> was born on 20 October, 1891, and was a British Physicist who discovered the Neutron. He died on 24 July 1974  <br /> ?]
+[? if time = 3 : 3rd fact ?]
