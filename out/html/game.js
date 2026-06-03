@@ -99,7 +99,8 @@
   };
 
   var colors = {
-        'kpd': '#700000'
+        'Diversity': '#b6a783'
+        'Card': '#09effb'
     };
     function colorTextNodes(element, colors) {
         element.childNodes.forEach(function(node) {
