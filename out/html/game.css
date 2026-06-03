@@ -571,13 +571,13 @@ table {
 }
 
 #flip div div {
-  background:#42c58a;
+  background:#DC143C;
 }
 #flip div:first-child div {
-  background:#4ec7f3;
+  background:#970b22;
 }
 #flip div:last-child div {
-  background:#DC143C;
+  background:yellow;
 }
 
 @keyframes show {
@@ -590,3 +590,11 @@ table {
   99.99% {margin-top:0px;}
   100% {margin-top:-270px;}
 }
+
+ul.decks a.card[card-id="diversitydeck"] {
+    border-width: 10px !important;
+    border-style: solid !important;
+    /* border-color stays whatever your current dark gray is, not overridden */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2) !important;
+    background-color: transparent !important;
+    padding: 0 !important;

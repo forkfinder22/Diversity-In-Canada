@@ -1,22 +1,16 @@
 title: DEBUG
-is-hand: true
-max-cards: 4
 
 <div id=container>
-  Make 
   <div id=flip>
-    <div><div>wOrK</div></div>
-    <div><div>lifeStyle</div></div>
-    <div><div>Everything</div></div>
+    <div><div>Social</div></div>
+    <div><div>Physical</div></div>
+    <div><div>Economic</div></div>
   </div>
-  AweSoMe!
+  Diversity
 </div>
 
-- @diversitydeck
-
-@diversitydeck
-title: Diversity Cards
-card-image: img/diversity.jpg
-is-deck: true
-
-- #dd
+<ul class="decks">
+    <li class="deck">
+        <a class="card" href="#" card-id="main.diversitydeck" title="Diversity Deck"><img class="card-img" src="img/diversity.jpg"></a>
+    </li>
+</ul>

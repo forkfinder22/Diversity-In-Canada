@@ -144,7 +144,48 @@
       bar.appendChild(value);
       return bar;
   };
+window._decorateChoices = function() {
+    var cardRoutes = {
+        'main.diversitydeck': 'diversitydecktrue'
+    };
 
+    document.querySelectorAll('a.card[card-id]').forEach(function(card) {
+        var id = card.getAttribute('card-id');
+        if (cardRoutes[id] && !card.dataset.clickAttached) {
+            card.dataset.clickAttached = 'true';
+            card.addEventListener('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                window.dendryUI.dendryEngine.goToScene(cardRoutes[id]);
+            });
+        }
+    });
+};
+
+function initDecorator() {
+    var contentEl = document.getElementById('content');
+    if (!contentEl) {
+        setTimeout(initDecorator, 100);
+        return;
+    }
+    var decoObserver = new MutationObserver(function() {
+        decoObserver.disconnect();
+        try {
+            window._decorateChoices();
+        } catch (e) {
+            console.error('[decorator error]', e);
+        }
+        decoObserver.observe(contentEl, { childList: true, subtree: true });
+    });
+    decoObserver.observe(contentEl, { childList: true, subtree: true });
+    window._decorateChoices();
+}
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initDecorator);
+} else {
+    initDecorator();
+}
 
   window.justLoaded = true;
   window.statusTab = "status";
