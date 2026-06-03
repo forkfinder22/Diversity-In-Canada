@@ -1,6 +1,7 @@
 title: DEBUG
 is-hand: true
 max-cards: 4
+
 <div id=container>
   Make 
   <div id=flip>
