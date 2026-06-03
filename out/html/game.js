@@ -99,7 +99,7 @@
   };
 
   var colors = {
-        'Diversity': '#b6a783'
+        'Diversity': '#b6a783',
         'Card': '#09effb'
     };
     function colorTextNodes(element, colors) {
