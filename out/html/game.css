@@ -109,8 +109,6 @@ header h2:before {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  text-shadow: rgba(255, 255, 255, 0.75) 2px 2px 2px,
-               rgba(0, 0, 0, 0.1) -1px -1px 2px;
 }
 a {
   color: var(--link-color);
@@ -581,14 +579,14 @@ table {
 }
 
 @keyframes show {
-  0% {margin-top:-270px;}
-  5% {margin-top:-180px;}
-  33% {margin-top:-180px;}
-  38% {margin-top:-90px;}
-  66% {margin-top:-90px;}
-  71% {margin-top:0px;}
-  99.99% {margin-top:0px;}
-  100% {margin-top:-270px;}
+  0% {margin-top:-260px;}
+  5% {margin-top:-170px;}
+  33% {margin-top:-170px;}
+  38% {margin-top:-80px;}
+  66% {margin-top:-80px;}
+  71% {margin-top:10px;}
+  99.99% {margin-top:10px;}
+  100% {margin-top:-260px;}
 }
 
 ul.decks a.card[card-id="diversitydeck"] {
