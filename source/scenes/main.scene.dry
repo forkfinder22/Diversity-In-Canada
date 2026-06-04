@@ -1,6 +1,14 @@
 title: DEBUG
 
 <section>
+<ul class="decks">
+    <li class="deck">
+        <a class="card" href="#" card-id="main.diversitydeck" title="Diversity Deck"><img class="card-img" src="img/diversity.jpg"></a>
+    </li>
+</ul>
+</section>
+</br></br></br></br>
+<section>
 <div id=container>
   <div id=flip>
     <div><div>Social</div></div>
@@ -9,15 +17,4 @@ title: DEBUG
   </div>
   Diversity
 </div>
-</section>
-
-
-
-
-<section>
-<ul class="decks">
-    <li class="deck">
-        <a class="card" href="#" card-id="main.diversitydeck" title="Diversity Deck"><img class="card-img" src="img/diversity.jpg"></a>
-    </li>
-</ul>
 </section>
