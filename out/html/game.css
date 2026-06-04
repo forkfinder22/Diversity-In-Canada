@@ -547,7 +547,7 @@ table {
   font-size:36px;
   font-weight:bold;
   padding-top:200px;  
-  position:fixed;
+  position:static;
   width:100%;
   bottom:45%;
   display:block;
