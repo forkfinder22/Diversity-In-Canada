@@ -2,5 +2,8 @@ title: Post Event
 new-page: true
 on-arrival: {!
 Q.time += 1
+if (Q.time > 5) {
+    Q.time = 1
+}
 !}
 go-to: main

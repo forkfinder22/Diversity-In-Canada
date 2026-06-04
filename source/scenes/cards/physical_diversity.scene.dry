@@ -5,4 +5,6 @@ is-card: true
 card-image: img/landscape.jpg
 tags: dd
 
+- @ex_pdiv: What are some examples of Social Diversity in Canada?
+- @pdiv_rel: How do different topics in Social Diversity connect?
 - @return
