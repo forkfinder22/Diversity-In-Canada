@@ -1,20 +1,13 @@
 title: DEBUG
 
-<section>
 <ul class="decks">
     <li class="deck">
-        <a class="card" href="#" card-id="main.diversitydeck" title="Diversity Deck"><img class="card-img" src="img/diversity.jpg"></a>
+        <a class="card" href="#" card-id="main.phydiversity" title="Physical Diversity"><img class="card-img" src="img/phydiversity.jpg"></a>
+    </li>
+    <li class="deck">
+        <a class="card" href="#" card-id="main.socdiversity" title="Social Diversity"><img class="card-img" src="img/socdiversity.jpg"></a>
+    </li>
+    <li class="deck">
+        <a class="card" href="#" card-id="main.ecodiversity" title="Economic Diversity"><img class="card-img" src="img/ecodiversity.jpg"></a>
     </li>
 </ul>
-</section>
-</br></br>
-<section>
-<div id=container>
-  <div id=flip>
-    <div><div>Social</div></div>
-    <div><div>Physical</div></div>
-    <div><div>Economic</div></div>
-  </div>
-  Diversity
-</div>
-</section>
