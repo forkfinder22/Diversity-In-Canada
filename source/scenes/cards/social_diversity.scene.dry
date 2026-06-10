@@ -11,17 +11,21 @@ tags: dd
 
 @ex_sdiv
 
--@economic0
--@economic1
--@economic2
--@economic3
--@economic4
--@economic5
--@economic6
--@economic7
--@economic8
--@economic9
+- @economic0:
+- @economic1:
+- @economic2:
+- @economic3:
+- @economic4:
+- @economic5:
+- @economic6:
+- @economic7:
+- @economic8:
+- @economic9:
 
 @sdiv_relationships
 
-text
+- @relation0:
+- @relation1:
+- @relation2:
+- @relation3:
+- @relation4:

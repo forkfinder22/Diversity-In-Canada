@@ -11,17 +11,21 @@ tags: dd
 
 @ex_ediv
 
--@economic0
--@economic1
--@economic2
--@economic3
--@economic4
--@economic5
--@economic6
--@economic7
--@economic8
--@economic9
+- @economic0: An example of Economic Diversity in A
+- @economic1: An example of Economic Diversity in B
+- @economic2: An example of Economic Diversity in C
+- @economic3: An example of Economic Diversity in D 
+- @economic4: An example of Economic Diversity in E 
+- @economic5: An example of Economic Diversity in F
+- @economic6: An example of Economic Diversity in G
+- @economic7: An example of Economic Diversity in H 
+- @economic8: An example of Economic Diversity in I 
+- @economic9: An example of Economic Diversity in J
 
 @ediv_rel
 
-text
+- @relation0: Relation 1
+- @relation1: Relation 2
+- @relation2: Relation 3
+- @relation3: Relation 4
+- @relation4: Relation 
