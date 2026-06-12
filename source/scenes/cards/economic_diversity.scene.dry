@@ -16,12 +16,14 @@ tags: dd
 - @economic2: Examples of Economic Diversity in Conventional Energy
 - @economic4: Examples of Economic Diversity in Sectors
 - @economic5: Examples of Economic Diversity in Population Settlement Patterns
+- @return
 
 @ediv_rel
 
 - @relation0: Relation between Agriculture, Forestry and Trade
 - @relation1: Relation between Industry, Conventional Energy, and Population Settlement Patterns
 - @relation2: Relation between Industry, Trade, and Sectors
+- @return
 
 @economic0
 
