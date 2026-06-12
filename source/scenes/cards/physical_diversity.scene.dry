@@ -11,24 +11,17 @@ tags: dd
 
 @ex_pdiv
 
-- @economic0:
-- @economic1:
-- @economic2:
-- @economic3:
-- @economic4:
-- @economic5:
-- @economic6:
-- @economic7:
-- @economic8:
-- @economic9:
+- @economic0: e
+- @economic1: e
+- @economic2: e
+- @economic3: e
+- @economic4: e
 
 @pdiv_rel
 
-- @relation0:
-- @relation1:
-- @relation2:
-- @relation3:
-- @relation4:
+- @relation0: r
+- @relation1: r
+- @relation2: r
 
 @economic0
 
@@ -46,26 +39,6 @@ text
 
 text
 
-@economic5
-
-text
-
-@economic6
-
-text
-
-@economic7
-
-text
-
-@economic8
-
-text
-
-@economic9
-
-text
-
 @relation0
 
 text
@@ -75,13 +48,5 @@ text
 text
 
 @relation2
-
-text
-
-@relation3
-
-text
-
-@relation4
 
 text
