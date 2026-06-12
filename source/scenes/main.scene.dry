@@ -11,3 +11,7 @@ title: DEBUG
         <a class="card" href="#" card-id="main.ecodiversity" title="Economic Diversity"><img class="card-img" src="img/ecodiversity.jpg"></a> <span onclick="window.dendryUI.dendryEngine.goToScene('economic_diversity');">Economic Diversity</span>
     </li>
 </ul>
+<br><br>
+<span onclick="window.dendryUI.dendryEngine.goToScene('physical_diversity');">Physical Diversity</span>
+<span onclick="window.dendryUI.dendryEngine.goToScene('social_diversity');">Social Diversity</span>
+<span onclick="window.dendryUI.dendryEngine.goToScene('economic_diversity');">Economic Diversity</span>
