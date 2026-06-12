@@ -11,34 +11,51 @@ tags: dd
 
 @ex_ediv
 
-- @economic0: An example of Economic Diversity in Types of Industries
-- @economic1: An example of Economic Diversity in Trade
-- @economic2: An example of Economic Diversity in Conventional Energy
-- @economic3: An example of Economic Diversity in Urban Land Use
-- @economic4: An example of Economic Diversity in Sectors
-- @economic5: An example of Economic Diversity in Population Settlement Patterns
+- @economic0: Examples of Economic Diversity in Industry
+- @economic1: Examples of Economic Diversity in Trade
+- @economic2: Examples of Economic Diversity in Conventional Energy
+- @economic3: Examples of Economic Diversity in Urban Land Use
+- @economic4: Examples of Economic Diversity in Sectors
+- @economic5: Examples of Economic Diversity in Population Settlement Patterns
 
 @ediv_rel
 
-- @relation0: Relation 1
-- @relation1: Relation 2
-- @relation2: Relation 3
+- @relation0: Relation between Agriculture, Forestry and Trade
+- @relation1: Relation between Industry, Conventional Energy, and Population Settlement Patterns
+- @relation2: Relation between Industry, Trade, and Sectors
 
 @economic0
 
-text
+Examples of Economic Diversity in Industry include:
+
++ Types of industries, like Food Processing, Metalworking, or Construction <br>
++ Smaller, locally owned industrial firms, to multi-national corporations <br>
++ Multiple levels of jobs, like managers or production line workers <br>
 
 @economic1
 
-text
+Examples of Economic Diversity in Trade include:
+
++ Multiple trading partners, like China or the USA, reducing dependence on any one country <br>
++ Interprovincial trade, allowing provinces to access goods that can only be produced in other provinces<br>
++ Diversity in exports, as canada exports many things, like Agricultural, and Forestry goods <br>
 
 @economic3
 
-text
+Examples of Economic Diversity in Conventional Energy include:
+
++ Types of conventional energy, like Gas, Oil, or Coal <br>
++ Use of these conventional energies, primarily in the Metalworking and Energy industries<br>
++ Buyers of these conventional energies, whether outside or inside Canada<br>
 
 @economic4
 
-text
+Examples of Economic Diversity in Sectors include:
+
++ Primary Sector, the material extraction sector <br>
++ Secondary Sector, the manufacturing sector <br>
++ Trinary Sector, the commerical/services sector <br>
++ Quaternary Secotr, the technology sector
 
 @economic5
 
@@ -46,12 +63,12 @@ text
 
 @relation0
 
-text
+Agriculture, Forestry, and Trade are three very well interconnected topics, as they each prop up each other.  Agricultural and Forestry companies often work close together in terms of location, as both are generally found in rural regions. Trade is the biggest factor in connecting the two, however, as inter provincial trade allows the agricultrual goods to be turned into food, which supply the workers cutting down trees, and that wood goes back into the agricultural industries by means of construction, building barns, fences, and other similar buildings.
 
 @relation1
 
-text
+The relatonship between Industry, Conventional Energy, and Population Settlement Patterns is very close. People settle where the resources are (Settlement Patterns), mine the Conventional Energy sources, which are turned into energy (conventional energy), and then use that energy to power industry, to manufacture goods (industry)
 
 @relation2
 
-text
+The relationship between, Industry, Trade, and Sectors is very tight-knit - The sectors define the types of industries, which then contribute to either the next industry up (Primary to Secondary, Secondary to Tertiary), or export their goods to other provinces or countries.
