@@ -2,12 +2,12 @@ title: DEBUG
 
 <ul class="decks">
     <li class="deck">
-        <a class="card" href="#" card-id="main.phydiversity" title="Physical Diversity"><img class="card-img" src="img/phydiversity.jpg"></a>
+        <a class="card" href="#" card-id="main.phydiversity" title="Physical Diversity"><img class="card-img" src="img/phydiversity.jpg"></a> Physical Diversity
     </li>
     <li class="deck">
-        <a class="card" href="#" card-id="main.socdiversity" title="Social Diversity"><img class="card-img" src="img/socdiversity.jpg"></a>
+        <a class="card" href="#" card-id="main.socdiversity" title="Social Diversity"><img class="card-img" src="img/socdiversity.jpg"></a> Social Diversity
     </li>
     <li class="deck">
-        <a class="card" href="#" card-id="main.ecodiversity" title="Economic Diversity"><img class="card-img" src="img/ecodiversity.jpg"></a>
+        <a class="card" href="#" card-id="main.ecodiversity" title="Economic Diversity"><img class="card-img" src="img/ecodiversity.jpg"></a> Economic Diversity
     </li>
 </ul>
