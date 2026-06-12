@@ -15,12 +15,14 @@ tags: dd
 - @economic1: Examples of Social Diversity in Generations
 - @economic3: Examples of Social Diversity in First Nations
 - @economic4: Examples of Social Diversity in Climate Change
+- @return
 
 @sdiv_relationships
 
-- @relation0: r
-- @relation1: r
-- @relation2: r
+- @relation0: Relationship between Immigration, Generations, and First Nations
+- @relation1: Relationship between Immigrations, First Nations, and Climate Change
+- @relation2: Relationship between Generations, First Nations, and Climate Change
+- @return
 
 @economic0
 
