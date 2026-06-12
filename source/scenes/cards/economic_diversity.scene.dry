@@ -5,8 +5,8 @@ is-card: true
 card-image: img/economics.jpg
 tags: dd
 
-- @ex_ediv: What are some examples of Social Diversity in Canada?
-- @ediv_rel: How do different topics in Social Diversity connect?
+- @ex_ediv: What are some examples of Economic Diversity in Canada?
+- @ediv_rel: How do different topics in Economic Diversity connect?
 - @return
 
 @ex_ediv
