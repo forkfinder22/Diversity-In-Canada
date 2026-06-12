@@ -4,4 +4,4 @@ is-special: true
 
 = Thanks For Playing!
 
-<span onclick=window.dendryUI.dendryEngine.goToScene.('thanks')> Credit </span>
+<span onclick="window.dendryUI.dendryEngine.goToScene.('thanks');"> Credit </span>
