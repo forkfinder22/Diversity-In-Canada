@@ -2,10 +2,6 @@ title: Status
 new-page: true
 is-special: true
 
-= Fun Facts
+= Thanks For Playing!
 
-[? if time = 1 : 1st fact ?]
-
-[? if time = 2 : 2nd fact ?]
-
-[? if time = 3 : 3rd fact ?]
+<span onclick=window.dendryUI.dendryEngine.goToScene.('thanks')> Credit </span>
