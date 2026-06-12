@@ -16,37 +16,55 @@ tags: dd
 - @economic2: Examples of Physical Diversity in Clouds
 - @economic3: Examples of Physical Diversity in Plate Tectonics
 - @economic4: Examples of Physical Diversity in Landform Regions
+- @return
 
 @pdiv_rel
 
-- @relation0: r
-- @relation1: r
-- @relation2: r
+- @relation0: Relationship between Forestry, Fishing and Plate Tectonics
+- @relation1: Relationship between Forestry, Clouds, and Landform Regions
+- @relation2: Relationship between Forestry, Landform Regions, and Plate Tectonics
+- @return
 
 @economic0
 
-text
+Examples of Physical Diversity in Forestry include:
+
++ Types of logging, like clear cutting or shelterwood logging <br>
++ Types of woods, like pine or maple <br>
++ Uses of woods, like in furniture or construction <br>
 
 @economic1
 
-text
+Examples of Physical Diversity in Fishing include:
+
++ Types of fish, like Salmon or Walleye <br>
++ Locations to fish, lakes or oceans <br>
++ Effects of overfishing on other species; Bear population decreases if overfishing happens.<br>
 
 @economic3
 
-text
+Examples of Physical Diversity in Clouds include:
+
++ Cloud shapes, like Cirrus, Cumulus<br>
++ Representing overall weather patterns <br>
++ Microphysical Diversity, such as physical state [of water droplets], size, or altitude<br>
 
 @economic4
 
-text
+Examples of Physical Diversity in Plate Tectonics include:
+
++ Oceanic vs. Continental plates<br>
++ Boundaries, be it Convergent, Divergent<br>
++ Over millions of years, mineral diversity<br>
 
 @relation0
 
-text
+There are significant relationships between Forestry, Fishing, and Plate Tectonics - Without the right plate tectonics, the water and soil required for fish and trees to occur may not be correct, and overfishing or clearcutting of already sparsely resourced areas could further exacerbate the problems in both fishing and forestry
 
 @relation1
 
-text
+There are hidden, but sensible relationsips between Forestry, Clouds, and Landform regions. First, for many trees to grow, and fro them not be reliant on rain, the landform region they are growing in must be correct. Then, the types of clouds that form, and more specifically, the amount that produce rain, affect Forestry, by renewing river water supplies and keeping trees hydrated
 
 @relation2
 
-text
+There are huge relationships between Forestry, Landform Regions, and Plate tectonics - First, the plate tectonics happen, creating landform regions. Then, the landform regions must be correct for trees to grow there, and for trees to replenish even if someone cuts them down.
