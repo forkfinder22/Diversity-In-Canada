@@ -12,7 +12,6 @@ title: <span style="color:#ffd700;">To Credits & Citations</span>
 
 - @thanks_2: <span style="color:#ffd700;"> Thanks for Playing!</span>
 - @credits: <span style="color:#ffd700;"> Credits</span>
-- @citations: <span style="color:#ffd700;"> Citations </span>
 - @return
 
 @thanks_2
@@ -40,54 +39,5 @@ Anonymous -- Providing me with this project <br />
 Anonymous -- Providing me with lessons <br />
 HTML colour codes -- Finding appropriate colours <br />
 w3schools -- Providing aid in coding HTML and CSS <br />
-
-- @thanks_menu
-
-@citations
-
-Citations:
-Last Name, First Initial. (Year, month and date of publication). Title of article. Title of online publication (in italics). Retrieved from (add URL).
-
-Niels Bohr — Quote
-Unknown. Date Unknown. Quotations by Niels Bohr.<i> MacTutor History of Mathematics. </i> Retrieved from https://mathshistory.st-andrews.ac.uk/Biographies/Bohr_Niels/quotations/ .
-
-John Dalton — Dalton
-Ross, S. 2026/03/25. John Dalton | Biography, Discoveries, Atomic Model, & Facts. <i> Encyclopedia Brittanica. </i> Retrieved from https://www.britannica.com/biography/John-Dalton .
-Unknown. Date Unknown. John Dalton FRS. <i> The Royal Society. </i> Retrieved from https://royalsociety.org/about-us/who-we-are/diversity-inclusion/case-studies/scientists-with-disabilities/john-dalton/ .
-Unknown. Date Unknown. John Dalton & The Theory of Atomism. <i> Science History Institute. </i> Retrieved from https://www.sciencehistory.org/education/scientific-biographies/john-dalton/ .
-Unknown. Date Unknown. Dalton (1766). <i> Energy Kids: U.S. Energy Information Administration. </i> Retrieved form https://www.eia.gov/kids/history-of-energy/famous-people/dalton.php .
-
-John Dalton — Quote
-Unknown. Date Unknown. Dalton's Law (Law of Partial Pressures).<i> LibreTexts Chemistry. </i> Retrieved from https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/
-States_of_Matter/Properties_of_Gases/Gas_Laws/Dalton's_Law_(Law_of_Partial_Pressures) .
-
-JJ Thomson — JJ Thomson
-Thomson, G. 2026/04/06. J.J. Thomson | Biography, Nobel Prize, Nobel Prize, & Facts. <i> Encyclopdia Britannica. </i> Retrieved from https://www.britannica.com/biography/J-J-Thomson .
-Phillips, P. 1911/11/23. Sir Joseph John Thomson, the Great English Physicist. <i> Scientific American. </i> Retrieved form https://www.scientificamerican.com/article/sir-joseph-john-thomson-the-great-e/ .
-Unknown. Date Unknown. Joseph John "J.J." Thomson. <i> Science History Institute. </i> Retrieved from https://www.sciencehistory.org/education/scientific-biographies/joseph-john-j-j-thomson/ .
-Unknown. Date Unknown. J.J. Thomson - Biographial. <i> The Nobel Prize. </i> Retrieved from https://www.nobelprize.org/prizes/physics/1906/thomson/biographical/ .
-
-Ernest Rutherford — Ernest Rutherford
-Badash L. 2025/10/21. Ernest Rutherford | Accomplishments, Atomic Theory & Facts. <i> Encyclopedia Britannica. </i> Retrieved from https://www.britannica.com/biography/Ernest-Rutherford .
-Unknown. Date Unknown. Ernest Rutherford - Biographical. <i> The Nobel Prize. </i> Retrieved from https://www.nobelprize.org/prizes/chemistry/1908/rutherford/biographical/ .
-Unknown. Date Unknown. Ernest Rutherford Collection. <i> McGill Historical Collections. </i> Retrieved from https://www.mcgill.ca/historicalcollections/departmental/ernest-rutherford .
-Pearson, J. 2022/?/?. Ernest Rutherford. <i> History | Research Starters | EBSCO. </i> Retrieved from https://www.ebsco.com/research-starters/history/ernest-rutherford .
-Tretkoff, E. 2006/5/. May, 1911: Rutherford and the Discovery of the Atomic Nucleus. <i> APS News. </i> Retrieved from https://www.aps.org/apsnews/2006/05/rutherford-discovery-atomic-nucleus . 
-
-Niels Bohr — Niels Bohr
-Aaserud, F. 2026/2/12. Niels Bohr | Biography, Education, Accomplishments, & Facts. <i> Encyclopedia Brittanica. </i> Retrieved from https://www.britannica.com/biography/Niels-Bohr .
-Unknown. Date Unknown. Niels Bohr - Biographial <i> The Nobel Prize. </i> Retrieved from https://www.nobelprize.org/prizes/physics/1922/bohr/biographical/ .
-Crepeau, B. 2022/?/?. Niels Bohr. <i> History | Research Starters | EBSCO. </i> Retrieved from https://www.ebsco.com/research-starters/history/niels-bohr .
-Unknown. Date Unknown. Niels Bohr, contributed to the understanding of the atom and quantum mechanics. <i> Rincón Educativo. </i> Retrieved from https://rinconeducativo.org/en/recursos-educativos/niels-bohr-contributed-understanding-atom-and-quantum-mechanics/ .
-Peterson, E. 2017/8/28. Niels Bohr: Biography & Atomic Theory. <i> Live Science. </i> Retrieved from https://www.livescience.com/32016-niels-bohr-atomic-theory.html .
-Rodriguez, E. 2026/3/30. Bohr Model | Description, Hydrogen, Developement, & Facts. <i> Encyclopedia Brittanica. </i> Retrieved from https://www.britannica.com/science/Bohr-model .
-
-James Chadwick — James Chadwick
-Gaur A. 2026/9/16. James Chadwick | Biography, Model, Discovery, Experiment, Neutron, & Facts <i> Encyclopedia Brittanica </i> Retrieved from https://www.britannica.com/biography/James-Chadwick .
-Unknown. Date Unknown. James Chadwick <i> Nuclear Museum. </i> Retrieved from https://ahf.nuclearmuseum.org/ahf/profile/james-chadwick/ .
-Rich, A. 2022. James Chadwick <i> History | Researcher Starters | EBSCO. </i> Retrieved from https://www.ebsco.com/research-starters/history/james-chadwick .
-Unknown. Date Unknown. James Chadwick <i> The FRanklin Institute. </i> Retrieved from https://fi.edu/en/awards/laureates/james-chadwick .
-Unknown. Date Unknown. James Chadwick, discoverer of the neutron <i> Rincón Educativo. </i> Retrieved from https://rinconeducativo.org/en/recursos-educativos/james-chadwick-discoverer-neutron/ .
-Stewart, Doug. 2014/8/8. James Chadwick - Biography, Facts, and Pictures <i> Famous Scientists () The Art of Genius. </i> Retrieved from https://www.famousscientists.org/james-chadwick/ .
 
 - @thanks_menu
