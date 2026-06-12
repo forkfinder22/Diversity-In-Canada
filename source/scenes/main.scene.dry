@@ -2,12 +2,12 @@ title: DEBUG
 
 <ul class="decks">
     <li class="deck">
-        <a class="card" href="#" card-id="main.phydiversity" title="Physical Diversity"><img class="card-img" src="img/phydiversity.jpg"></a> <span onclick="window.dendryUI.dendryEngine.goToScene('physical_diversity');">Physical Diversity</span>
+        <a class="card" href="#" card-id="main.phydiversity" title="Physical Diversity"><img class="card-img" src="img/IMG_0131.jpeg"></a> <span onclick="window.dendryUI.dendryEngine.goToScene('physical_diversity');">Physical Diversity</span>
     </li>
     <li class="deck">
-        <a class="card" href="#" card-id="main.socdiversity" title="Social Diversity"><img class="card-img" src="img/socdiversity.jpg"></a> <span onclick="window.dendryUI.dendryEngine.goToScene('social_diversity');">Social Diversity</span>
+        <a class="card" href="#" card-id="main.socdiversity" title="Social Diversity"><img class="card-img" src="img/IMG_0130.jpeg"></a> <span onclick="window.dendryUI.dendryEngine.goToScene('social_diversity');">Social Diversity</span>
     </li>
     <li class="deck">
-        <a class="card" href="#" card-id="main.ecodiversity" title="Economic Diversity"><img class="card-img" src="img/ecodiversity.jpg"></a> <span onclick="window.dendryUI.dendryEngine.goToScene('economic_diversity');">Economic Diversity</span>
+        <a class="card" href="#" card-id="main.ecodiversity" title="Economic Diversity"><img class="card-img" src="img/IMG_0129.jpeg"></a> <span onclick="window.dendryUI.dendryEngine.goToScene('economic_diversity');">Economic Diversity</span>
     </li>
 </ul>
