@@ -147,8 +147,8 @@
 window._decorateChoices = function() {
     var cardRoutes = {
         'main.phydiversity': 'physical_diversity',
-        'main.ecodiversity': 'physical_diversity',
-        'main.phydiversity': 'physical_diversity'
+        'main.ecodiversity': 'economic_diversity',
+        'main.socdiversity': 'social_diversity'
     };
 
     document.querySelectorAll('a.card[card-id]').forEach(function(card) {
