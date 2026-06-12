@@ -50,7 +50,7 @@ header, #content, footer {
 #content {
   position: relative;
   background-color: var(--content-bg-color);
-  font-size: 1.1em;
+  font-size: 1.2em;
   padding: 1em 1.5em 1.5em 1.5em;
   box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
 }
@@ -81,7 +81,7 @@ header h1, header h2 {
   display: inline-block;
   font-weight: normal;
   margin: 0;
-  font-size: 1em;
+  font-size: 1.1em;
 }
 header h1 {
   font-weight: bold;
