@@ -15,20 +15,14 @@ tags: dd
 - @economic1: An example of Economic Diversity in Trade
 - @economic2: An example of Economic Diversity in Conventional Energy
 - @economic3: An example of Economic Diversity in Urban Land Use
-- @economic4: An example of Economic Diversity in E 
-- @economic5: An example of Economic Diversity in F
-- @economic6: An example of Economic Diversity in G
-- @economic7: An example of Economic Diversity in H 
-- @economic8: An example of Economic Diversity in I 
-- @economic9: An example of Economic Diversity in J
+- @economic4: An example of Economic Diversity in Sectors
+- @economic5: An example of Economic Diversity in Population Settlement Patterns
 
 @ediv_rel
 
 - @relation0: Relation 1
 - @relation1: Relation 2
 - @relation2: Relation 3
-- @relation3: Relation 4
-- @relation4: Relation 
 
 @economic0
 
@@ -50,22 +44,6 @@ text
 
 text
 
-@economic6
-
-text
-
-@economic7
-
-text
-
-@economic8
-
-text
-
-@economic9
-
-text
-
 @relation0
 
 text
@@ -75,13 +53,5 @@ text
 text
 
 @relation2
-
-text
-
-@relation3
-
-text
-
-@relation4
 
 text
