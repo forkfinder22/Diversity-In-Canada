@@ -20,7 +20,7 @@ tags: dd
 @sdiv_relationships
 
 - @relation0: Relationship between Immigration, Generations, and First Nations
-- @relation1: Relationship between Immigrations, First Nations, and Climate Change
+- @relation1: Relationship between Immigration, First Nations, and Climate Change
 - @relation2: Relationship between Generations, First Nations, and Climate Change
 - @return
 
@@ -58,12 +58,12 @@ Examples of Social Diversity in Climate Change include:
 
 @relation0
 
-text
+The relationship between Immigration, Generations, and First Nations is quite distinct - In the 1600's much of the younger people would have been the Europeans, while older people were generally made up of First nations. Now, each generation is diverse, however each generation will have a largest minority indicative of social events - Refugee crises, wars, and so on 
 
 @relation1
 
-text
+The relationship between Immigrations, First Nations and Climate change are very similar - Immigrants flee from disaster-struck areas, and settle in canada. Due to both climate change and a population boom, there is less land to be used, and the government looks for way to expand how much land they can use, and will sometimes take it from natural parks or First Nations reservations, which the North American Indigenous community has to do their best to fight back against
 
 @relation2
 
-text
+The relationship between Generations, First Nations, and Climate Change is interesting - As generations die off, new generations with new ethnic compositions, often which leads a decline in Indigenous populace. Additionally influencing these Generations ethnic composition is climate, which can drive emigration or immigration
